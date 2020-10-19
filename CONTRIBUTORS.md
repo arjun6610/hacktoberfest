@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arjun S](https://github.com/arjun6610)
+- Place: Kochi, Kerala, India
+- Bio: Bachelor of Technology Student
+- GitHub: [Arjun S](https://github.com/arjun6610)
